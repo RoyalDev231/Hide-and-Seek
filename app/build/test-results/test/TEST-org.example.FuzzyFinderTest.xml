@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.example.FuzzyFinderTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2025-10-25T02:12:34" hostname="DEVSPC" time="0.02">
+  <properties/>
+  <testcase name="Linear search finds gold in sorted list" classname="org.example.FuzzyFinderTest" time="0.013"/>
+  <testcase name="Binary search on random list: throws due to unsorted input" classname="org.example.FuzzyFinderTest" time="0.002"/>
+  <testcase name="Linear search finds gold in randomized list" classname="org.example.FuzzyFinderTest" time="0.002"/>
+  <testcase name="Binary search finds gold in sorted list" classname="org.example.FuzzyFinderTest" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
